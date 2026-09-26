@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0001-two-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1480-running-sum-of-1d-array) |
