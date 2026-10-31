@@ -1,18 +1,18 @@
-#include <cstdint>
-
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x < 0 || (x % 10 == 0 && x != 0)) {
+        if (x < 0) {
             return false;
         }
 
-        int reversedHalf = 0;
-        while (x > reversedHalf) {
-            reversedHalf = reversedHalf * 10 + x % 10;
+        long reverse = 0;
+        int xcopy = x;
+
+        while (x > 0) {
+            reverse = (reverse * 10) + (x % 10);
             x /= 10;
         }
 
-        return x == reversedHalf || x == reversedHalf / 10;
+        return reverse == xcopy;        
     }
 };
