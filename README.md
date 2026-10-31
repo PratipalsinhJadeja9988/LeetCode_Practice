@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
