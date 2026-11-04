@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -69,4 +71,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
