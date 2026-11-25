@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0283-move-zeroes) |
+| [1207-unique-number-of-occurrences](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0217-contains-duplicate) |
+| [1207-unique-number-of-occurrences](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
