@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Sorting
 |  |
