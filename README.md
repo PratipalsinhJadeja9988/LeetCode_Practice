@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Matrix
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
