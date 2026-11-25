@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/2413-smallest-even-multiple) |
 ## Array
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0217-contains-duplicate) |
+| [1512-number-of-good-pairs](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
