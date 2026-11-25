@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1672-richest-customer-wealth) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 ## Quicksort
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
