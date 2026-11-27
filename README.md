@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0204-count-primes) |
+| [0273-integer-to-english-words](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0273-integer-to-english-words) |
 | [0507-perfect-number](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0002-add-two-numbers) |
+| [0273-integer-to-english-words](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0273-integer-to-english-words) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0273-integer-to-english-words](https://github.com/PratipalsinhJadeja9988/LeetCode_Practice/tree/master/0273-integer-to-english-words) |
 ## Sliding Window
 |  |
 | ------- |
